@@ -1,1 +1,1 @@
-# CompilerLab.24-60198-3.-I-
+# CompilerLab.24-60198-3

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1791385208 source:c:\users\hp\downloads\cd labtask1\labtask1\main.cpp
+	<iostream>
+
+1791383950 source:c:\users\hp\downloads\cd labtask1\labtask1\task2.cpp
+	<iostream>
+
+1791384914 source:c:\users\hp\downloads\cd labtask1\labtask1\task3.cpp
+	<iostream>
+	<string>
+
+1791384987 source:c:\users\hp\downloads\cd labtask1\labtask1\task4.cpp
+	<iostream>
+	<string>
+
+1791385027 source:c:\users\hp\downloads\cd labtask1\labtask1\task5.cpp
+	<iostream>
+
+1791385067 source:c:\users\hp\downloads\cd labtask1\labtask1\task6.cpp
+	<iostream>
+
+1791385114 source:c:\users\hp\downloads\cd labtask1\labtask1\task7.cpp
+	<iostream>
+	<string>
+
